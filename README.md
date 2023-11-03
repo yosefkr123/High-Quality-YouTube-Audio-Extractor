@@ -1,7 +1,5 @@
 # High-Quality-YouTube-Audio-Extractor
-This repository contains a Python script that allows you to easily download high-quality audio from YouTube videos. Simply provide the YouTube video URL, and this tool will extract and save the audio in MP3 format.
-####
-The YouTube Audio Downloader is a Python program designed to simplify the extraction of audio from YouTube videos. It works in a series of straightforward steps.
+This repository contains a Python script that allows you to easily download high-quality audio from YouTube videos. Simply provide the YouTube video URL, and this tool will extract and save the audio in MP3 format. The YouTube Audio Downloader is a Python program designed to simplify the extraction of audio from YouTube videos. It works in a series of straightforward steps.
 ### 1. URL Validation
 The program begins by validating the user-provided YouTube URL. It checks if the URL follows the format of a standard YouTube video link (https://www.youtube.com/watch?v=VIDEO_ID).
 ### 2. Video Initialization
@@ -18,3 +16,7 @@ The program includes error handling mechanisms to manage potential issues during
 Upon successful completion of the download, the program notifies the user that the highest-quality audio has been downloaded.
 ####
 This tool offers a user-friendly solution for extracting audio from YouTube videos. Users only need to input a YouTube URL, and the program takes care of the rest, making it a valuable resource for music enthusiasts, content creators, and anyone interested in enjoying YouTube audio offline.
+
+### Example Output
+![image](https://github.com/yosefkr123/High-Quality-YouTube-Audio-Extractor/assets/145518481/9d05c7bd-a9d5-4139-9bda-fbc1a6e1b150)
+
